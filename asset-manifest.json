@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio_React/static/css/main.129b95ee.chunk.css",
+    "main.js": "/Portfolio_React/static/js/main.ee2064aa.chunk.js",
+    "main.js.map": "/Portfolio_React/static/js/main.ee2064aa.chunk.js.map",
+    "runtime-main.js": "/Portfolio_React/static/js/runtime-main.feb04364.js",
+    "runtime-main.js.map": "/Portfolio_React/static/js/runtime-main.feb04364.js.map",
+    "static/js/2.c2c80342.chunk.js": "/Portfolio_React/static/js/2.c2c80342.chunk.js",
+    "static/js/2.c2c80342.chunk.js.map": "/Portfolio_React/static/js/2.c2c80342.chunk.js.map",
+    "index.html": "/Portfolio_React/index.html",
+    "precache-manifest.e37201b1ef0c66846506af58f630b66f.js": "/Portfolio_React/precache-manifest.e37201b1ef0c66846506af58f630b66f.js",
+    "service-worker.js": "/Portfolio_React/service-worker.js",
+    "static/css/main.129b95ee.chunk.css.map": "/Portfolio_React/static/css/main.129b95ee.chunk.css.map",
+    "static/js/2.c2c80342.chunk.js.LICENSE.txt": "/Portfolio_React/static/js/2.c2c80342.chunk.js.LICENSE.txt",
+    "static/media/resumePage1.jpg": "/Portfolio_React/static/media/resumePage1.f2b95a66.jpg",
+    "static/media/resumePage2.jpg": "/Portfolio_React/static/media/resumePage2.7d106912.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.feb04364.js",
+    "static/js/2.c2c80342.chunk.js",
+    "static/css/main.129b95ee.chunk.css",
+    "static/js/main.ee2064aa.chunk.js"
+  ]
+}
