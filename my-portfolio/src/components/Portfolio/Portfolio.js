@@ -50,7 +50,7 @@ export default class Nav extends Component {
                                  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRvm-Q9Nlvit25jmfyn6d7CSaWPL_deLSOlF726IHpUybDGUFdB&usqp=CAU"
                                      className="card-img" />
                                  <div className="card-img-overlay" id="cardBan">
-                                 <Link to="/resume" className="nav-link" id="resumeLink" target="_blank"><h5 id="resume">Resume</h5></Link>
+                                 <Link to="/Portfolio_React/resume" className="nav-link" id="resumeLink" target="_blank"><h5 id="resume">Resume</h5></Link>
                                  </div>
                              </div>
                          </div>
