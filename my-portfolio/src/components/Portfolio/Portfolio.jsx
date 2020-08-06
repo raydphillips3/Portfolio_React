@@ -8,7 +8,7 @@ import Portfolio from "./Portfolio";
 
 
 
-const Homepage = () => {
+const Landpage = () => {
 
     return (
         <div className="App" id="app">
@@ -17,4 +17,4 @@ const Homepage = () => {
     );
 };
 
-export default Homepage;
+export default Landpage;
