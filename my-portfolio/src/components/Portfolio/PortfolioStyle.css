@@ -1,0 +1,75 @@
+#parent {
+    background-image: url(https://data.whicdn.com/images/287677565/original.gif);
+    height: 800px;
+    width: 100vw;
+}
+
+#ray {
+    font-size: 30px; 
+    color: white;
+    padding-left: 20px;
+}
+
+li {
+    color: blue;
+    text-decoration: underline;
+}
+
+#guts {
+    height: 90% vh;
+    margin-left: 25%;
+}
+
+#port {
+    color: darkgreen; 
+    margin-left: 0px; 
+    border-bottom-style: solid; 
+    border-bottom-color: darkgreen
+}
+
+#github {
+    margin-top: 15px;
+}
+
+#projRow {
+    margin-top: 15px;
+}
+
+#cinesearchRow {
+    margin-top: 15px;
+}
+
+#cardBan {
+    background-color: darkgreen;
+    height: 70px;
+    width: 253px ;
+    margin-top: 110px;
+    text-align: center;
+    color: white;
+}
+
+img {
+    height: 200px;
+    width: 200px;
+    float: left;
+    padding: 10px;
+}
+
+nav {
+    background-color: transparent;
+    padding-bottom: 0%;
+    height: 50px;
+}
+
+#navLinks {
+    margin-bottom: -30px;
+    padding-right: 50px;
+}
+
+#resume {
+    padding-top: -10px;
+}
+
+#resumeLink {
+    padding-top: 0%;
+}
