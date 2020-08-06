@@ -12,9 +12,6 @@ export default class Nav extends Component {
             <div id="parent">
                 <nav >
                     <ul className="nav justify-content-end" id="navLinks">
-                        <li className="nav-item" >
-                            <Link to="/about" className="nav-link active" >About</Link>
-                        </li>
                         <li className="nav-item">
                             <Link to="/" className="nav-link"  >Portfolio</Link>
                         </li>
@@ -23,6 +20,9 @@ export default class Nav extends Component {
                         </li>
                         <li className="nav-item">
                             <a href="https://www.linkedin.com/in/raymond-phillips-5b4208a1/" className="nav-link" target="_blank">Linkedin</a>
+                        </li>
+                        <li className="nav-item" >
+                            <Link to="/about" className="nav-link active" >About</Link>
                         </li>
                     </ul>
                 </nav>

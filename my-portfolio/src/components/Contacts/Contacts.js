@@ -12,17 +12,17 @@ export default class Nav extends Component {
             <div>
                 <nav >
                     <ul className="nav justify-content-end" id="navLinks">
+                        <li className="nav-item">
+                            <Link to="/" className="nav-link"  >Portfolio</Link>
+                        </li>
                         <li className="nav-item" >
                             <Link to="/about" className="nav-link active" >About</Link>
                         </li>
                         <li className="nav-item">
-                            <Link to="/" className="nav-link"  >Portfolio</Link>
+                            <a href="https://www.linkedin.com/in/raymond-phillips-5b4208a1/" className="nav-link" target="_blank">Linkedin</a>
                         </li>
                         <li className="nav-item">
                             <Link to="/contacts" className="nav-link" >Contacts</Link>
-                        </li>
-                        <li className="nav-item">
-                            <a href="https://www.linkedin.com/in/raymond-phillips-5b4208a1/" className="nav-link" target="_blank">Linkedin</a>
                         </li>
                     </ul>
                 </nav>
